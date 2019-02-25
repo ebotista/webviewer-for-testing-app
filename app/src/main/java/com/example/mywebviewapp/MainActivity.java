@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             WebView.setWebContentsDebuggingEnabled(true);
         }
 
-        mWebView.loadUrl("https://sellerdashboard.manheim.man-ba.com/login/new");
+        mWebView.loadUrl("http://10.104.222.138:3000/login/new");
 
     }
 
